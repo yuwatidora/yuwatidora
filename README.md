@@ -2,7 +2,7 @@
 ## hi  👋, i'm `Yu Wati Nyi` 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDgzMzlpc2loOGhubjY1aWRxemVtdjdsY2pmcWhneHE3Y3R3czcybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9TYOxSLqBIrK0/giphy.gif"/>
 
-- 🔭 I'm currently working as an Undergraduate Researcher on Multiple Robotic Motion Planning Algorithms. 
+- 🔭 I'm currently working as an Undergraduate Researcher on Multiple Robotic Motion Planning Algorithms. Check out my blog <a href="https://commons.mtholyoke.edu/roselab/yu-wati-nyi/">here!</a>
 - 🌱 I’m currently learning Machine Learning
 - 🪐 I'm working on a project with Java and Spring  
 - ⚡ Fun fact: I am Burmese! 🇲🇲
