@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working as an Undergraduate Researcher on Multiple Robotic Motion Planning Algorithms. Check out my blog <a href="https://commons.mtholyoke.edu/roselab/yu-wati-nyi/">here!</a>
 - 🌱 I’m currently learning Machine Learning
-- 🪐 I'm working on a project with Java and Spring  
+- 🪐 I'm working on a full stack project with Java and Spring  
 - ⚡ Fun fact: I am Burmese! 🇲🇲
 
 ## my github history
