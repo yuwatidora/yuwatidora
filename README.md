@@ -5,7 +5,7 @@
 - 🔭 I'm currently working as an Undergraduate Researcher on Multiple Robotic Motion Planning Algorithms. Check out my blog <a href="https://commons.mtholyoke.edu/roselab/yu-wati-nyi/">here!</a>
 - 🌱 I’m currently learning UI/UX Google Certificate
 - 🪐 I'm currently working on developing a hackathon website.  
-- ⚡ Fun fact: I am Burmese! 🇲🇲
+- ⚡ Fun fact: I am Burmese! 🇲🇲 (and a ghibli fan)
 
 ## my github history
 ![yuwati's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuwatidora&theme=shadow_blue&icons=true&rank_icon=github)
