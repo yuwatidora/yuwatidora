@@ -2,8 +2,9 @@
 ## hi  👋, i'm `Yu Wati Nyi` 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDgzMzlpc2loOGhubjY1aWRxemVtdjdsY2pmcWhneHE3Y3R3czcybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9TYOxSLqBIrK0/giphy.gif"/>
 
-- 🌱 I am a CS and Econ double major from Mount Holyoke College
-- 🔭 I am working on building a few full-stack applications and ML projects
+- 🌱 I am a recent grad with a 🎓B.A. in Computer Science and Economics from Mount Holyoke College
+- 🔭 I am currently contributing to the Mifos Initiative as a ☀️Google Summer of Code☀️ Intern. (Java, Springboot)
+- 🌸 I am excited about AI and Robotics!🦾 (done some research and want to learn more)
 - 😄 Fun fact: I am Burmese! 🇲🇲
 
 ## my github history
