@@ -5,7 +5,7 @@
 - 🌱 I am a recent grad with a 🎓B.A. in Computer Science and Economics from Mount Holyoke College
 - 🔭 I am currently contributing to the Mifos Initiative as a ☀️Google Summer of Code☀️ Intern. (Java, Springboot)
 - 🌸 I am excited about AI and Robotics!🦾 (done some research and want to learn more)
-- 😄 Fun fact: I am Burmese! 🇲🇲
+- 😄 Fun fact: I am Burmese! 🇲🇲 And I like Ghibli films... ^^
 
 ## my github history
 ![yuwati's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuwatidora&theme=shadow_blue&icons=true&rank_icon=github)
