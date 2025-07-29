@@ -1,5 +1,6 @@
 
 ## hi  👋, i'm `Yu Wati Nyi` 
+(you can also call me `Dora`)
 
 - 🌱 I am a recent grad with a 🎓B.A. in Computer Science and Economics from Mount Holyoke College
 - 🔭 I am currently contributing to the Mifos Initiative as a ☀️Google Summer of Code☀️ Intern. (Java, Springboot)
