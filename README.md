@@ -11,10 +11,6 @@
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDgzMzlpc2loOGhubjY1aWRxemVtdjdsY2pmcWhneHE3Y3R3czcybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9TYOxSLqBIrK0/giphy.gif"/>
 
-## my github history
-![yuwati's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuwatidora&theme=shadow_blue&icons=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuwatidora&layout=compact&theme=shadow_blue)
-
 ## 
 <!--
 **yuwatidora/yuwatidora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
