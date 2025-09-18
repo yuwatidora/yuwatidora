@@ -11,8 +11,9 @@
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDgzMzlpc2loOGhubjY1aWRxemVtdjdsY2pmcWhneHE3Y3R3czcybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9TYOxSLqBIrK0/giphy.gif"/>
 
+##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuwatidora)](https://github.com/yuwatidora/github-readme-stats)
-## 
+
 <!--
 **yuwatidora/yuwatidora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
